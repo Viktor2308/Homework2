@@ -89,7 +89,7 @@ public class Main {
         totalEmployees = totalEmployees + 94;
         totalHours = totalEmployees * 8;
         System.out.println("If in company working " + totalEmployees + " people, then all " + totalHours +
-                        " hours of work can be divided among employees.");
+                        " hours of work can be divided among employees. ");
     }
 
 }
